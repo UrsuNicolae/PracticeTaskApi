@@ -1,0 +1,9 @@
+C:\Users\colea\Desktop\PracticeTask\PracticeTaskServer\PracticeTaskTests\bin\Debug\netstandard2.0\PracticeTaskTests.deps.json
+C:\Users\colea\Desktop\PracticeTask\PracticeTaskServer\PracticeTaskTests\bin\Debug\netstandard2.0\PracticeTaskTests.dll
+C:\Users\colea\Desktop\PracticeTask\PracticeTaskServer\PracticeTaskTests\bin\Debug\netstandard2.0\PracticeTaskTests.pdb
+C:\Users\colea\Desktop\PracticeTask\PracticeTaskServer\PracticeTaskTests\obj\Debug\netstandard2.0\PracticeTaskTests.csprojAssemblyReference.cache
+C:\Users\colea\Desktop\PracticeTask\PracticeTaskServer\PracticeTaskTests\obj\Debug\netstandard2.0\PracticeTaskTests.AssemblyInfoInputs.cache
+C:\Users\colea\Desktop\PracticeTask\PracticeTaskServer\PracticeTaskTests\obj\Debug\netstandard2.0\PracticeTaskTests.AssemblyInfo.cs
+C:\Users\colea\Desktop\PracticeTask\PracticeTaskServer\PracticeTaskTests\obj\Debug\netstandard2.0\PracticeTaskTests.csproj.CoreCompileInputs.cache
+C:\Users\colea\Desktop\PracticeTask\PracticeTaskServer\PracticeTaskTests\obj\Debug\netstandard2.0\PracticeTaskTests.dll
+C:\Users\colea\Desktop\PracticeTask\PracticeTaskServer\PracticeTaskTests\obj\Debug\netstandard2.0\PracticeTaskTests.pdb

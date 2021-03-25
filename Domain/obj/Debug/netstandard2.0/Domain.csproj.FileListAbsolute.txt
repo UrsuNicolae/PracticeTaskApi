@@ -1,0 +1,9 @@
+C:\Users\colea\Desktop\PracticeTask\PracticeTaskServer\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+C:\Users\colea\Desktop\PracticeTask\PracticeTaskServer\Domain\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\colea\Desktop\PracticeTask\PracticeTaskServer\Domain\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\colea\Desktop\PracticeTask\PracticeTaskServer\Domain\obj\Debug\netstandard2.0\Domain.csprojAssemblyReference.cache
+C:\Users\colea\Desktop\PracticeTask\PracticeTaskServer\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+C:\Users\colea\Desktop\PracticeTask\PracticeTaskServer\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+C:\Users\colea\Desktop\PracticeTask\PracticeTaskServer\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\colea\Desktop\PracticeTask\PracticeTaskServer\Domain\obj\Debug\netstandard2.0\Domain.dll
+C:\Users\colea\Desktop\PracticeTask\PracticeTaskServer\Domain\obj\Debug\netstandard2.0\Domain.pdb
